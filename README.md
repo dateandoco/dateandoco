@@ -1,16 +1,13 @@
-## Hi there 👋
+# Dateando
 
-<!--
-**dateandoco/dateandoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este es el repositorio oficial de Dateando SAS, aquí hacemos que la tecnología se transforme en oportunidades de mejora para todos
 
-Here are some ideas to get you started:
+## Que es Dateando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Somos una empresa colombiana integrada por un equipo multidisciplinario de profesionales con experiencia en ciencia de datos, inteligencia de negocios, inteligencia artificial, desarrollo tecnológico, marketing y comunicación.
+
+### Contacto
+
+- Pagina Web: https://dateando.co/
+- Contacto: +57 3113569681
+- Correo empresarial: dateandobi@gmail.com
